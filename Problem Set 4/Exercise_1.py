@@ -9,7 +9,7 @@
 # 			b = permute(a)
 # 			ans.extend(c + b)
 # 		return ans
-
+'''this program returns all the permutations of a list of integers.'''
 def permute(nums):
 	ls = [[]]
 	new_ls = []
