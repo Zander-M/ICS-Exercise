@@ -1,4 +1,4 @@
-# def permute(nums):
+# def permute(nums): '''unsuccessful attempt using recursion''
 # 	ans = []
 # 	if len(nums) == 1:
 # 		return nums
