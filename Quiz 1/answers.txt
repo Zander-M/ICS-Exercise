@@ -1,0 +1,39 @@
+ICS Spring 2018 Quiz 1
+Answer Sheet
+Part I. Multiple Choice
+1.c
+2.b
+3.c
+4.b
+5.d
+
+Part II. True or False
+1.F
+2.T
+3.F
+4.F
+5.F
+
+Part III. Short Answers
+1.11111100010
+
+2.easier for people to read, program and maintain
+
+3.0.9
+
+4.KISS Law and 90-90 Law. The former one showed me the philosophy of programming, whereas the latter one warned me of the danger of misprediction.
+
+
+Part IV. Explain Output and Bugs 
+1.A tuple:(7, 998, 3, 488). If want to get the correct answer, remove the commas.
+
+2.0.0. If want to get the correct answer, change "/" to "//" to perform the integer division.
+
+3.An Error. "-1" is not in the keys of the dictionary.
+
+4."a" is a tuple. "b" is a hardcopy of "a", therefore also is a tuple. Tuple is immutable, therefore it can't use "pop()" function or multiplication. The solutino is changing "a" into a list.
+
+5.It prints out '4' and '8', then there is an error. Because when using pop(), one element is deleted from the list and the list changes, so it pops out an wrong item.
+
+6.(Bonus)
+There is no return, so nothing will be printed.
