@@ -10,6 +10,15 @@
 # 			ans.extend(c + b)
 # 		return ans
 '''this program returns all the permutations of a list of integers.'''
+import time
+
+def timeit(f, *args):
+    t1 = time.time()
+    f(*args)
+    t2 = time.time()
+    return t2 - t1
+
+
 def permute(nums):
 	ls = [[]]
 	new_ls = []
@@ -23,6 +32,6 @@ def permute(nums):
 
 
 
-
+print(timeit(permute,[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]))
 
 
