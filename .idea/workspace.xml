@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="602830e7-868e-4867-8792-e19161671030" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/number_placement_student.py" afterPath="$PROJECT_DIR$/number_placement_student.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pancake_student.py" afterPath="$PROJECT_DIR$/pancake_student.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/factorial_student.py" afterPath="$PROJECT_DIR$/factorial_student.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="number_placement_student.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="number_placement_student.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/number_placement_student.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="338">
               <caret line="32" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="factorial_student.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/factorial_student.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -98,6 +107,7 @@
         <option value="$PROJECT_DIR$/Shortest_Sum.py" />
         <option value="$PROJECT_DIR$/pancake_student.py" />
         <option value="$PROJECT_DIR$/number_placement_student.py" />
+        <option value="$PROJECT_DIR$/factorial_student.py" />
       </list>
     </option>
   </component>
@@ -152,24 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.number_placement_student">
-    <configuration name="Exercise_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem Set 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ICS Exercise" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem Set 4/Exercise_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.factorial_student">
     <configuration name="Shortest_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,6 +193,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ICS Exercise" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Site selection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="factorial_student" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ICS Exercise" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/factorial_student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,19 +249,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Exercise_1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.resolution2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Site selection" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Shortest_Sum" />
-      <item index="4" class="java.lang.String" itemvalue="Python.number_placement_student" />
+      <item index="0" class="java.lang.String" itemvalue="Python.resolution2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Site selection" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Shortest_Sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.number_placement_student" />
+      <item index="4" class="java.lang.String" itemvalue="Python.factorial_student" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.number_placement_student" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Shortest_Sum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Site selection" />
-        <item index="3" class="java.lang.String" itemvalue="Python.resolution2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Exercise_1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.factorial_student" />
+        <item index="1" class="java.lang.String" itemvalue="Python.number_placement_student" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Shortest_Sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Site selection" />
+        <item index="4" class="java.lang.String" itemvalue="Python.resolution2" />
       </list>
     </recent_temporary>
   </component>
@@ -325,12 +335,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520497108631</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fixed bug">
+      <created>1520498115982</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1520498115982</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23952739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -383,7 +399,8 @@
     <MESSAGE value="adding Q1&amp; Q2" />
     <MESSAGE value="adding Smallest_Sum Solution&#10;p.s. change the min() function can change make it return the biggest sum" />
     <MESSAGE value="adding lab 6 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab 6 files" />
+    <MESSAGE value="fixed bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed bug" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -730,6 +747,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="32" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorial_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding />
         </state>
       </provider>
