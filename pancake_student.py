@@ -6,8 +6,8 @@ SIZE = 10
 LOGGING = True
 
 
-class PancakeStack():
-    def __init__(self, stack = None):
+class PancakeStack:
+    def __init__(self, stack=None):
         self.stack = stack
 
     def get_size(self):

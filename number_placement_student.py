@@ -27,14 +27,14 @@ def main():
     for j in sign_array:
         if j == '<':
             result.append(mmq.pop_min())
-            result.append(j)
         else:
             result.append(mmq.pop_max())
-            result.append(j)
+        result.append(j)
+    result.append(mmq.pop_max())
     #decide if you'd take out the min or max of the integer list
     #and append corresponding sign after it
 
-    print(result[:-1])
+    print(result)
 
 main()
 
