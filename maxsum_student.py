@@ -14,14 +14,18 @@ class Triangle:
 
     def __init__(self, up_t=None):
         self.up_t = up_t
-        self.size = 1 if up_t == None else up_t.get_size() + 1
-        self.my_row = [random.randint(0, 20) for i in range(self.size)]
+        self.size = 1 if up_t is None else up_t.get_size() + 1
+        self.my_row = [random.randint(0, 20) in range(self.size)]
         self.maxsum = []
 
     def get_size(self):
         return self.size
 
     def get_maxsum(self):
+	    if self.my_row == 1:
+		    return self.my_row
+
+
         #write your code here, and be sure to return what you've done
 
         return 
