@@ -46,7 +46,7 @@ def main():
     print_triangles(tri)
 
     tri[TRI_DEPTH - 1].get_maxsum()
-    print("\nmaximum sum -- ");
+    print("\nmaximum sum -- ")
     print_maxsum(tri)
 
 main()

@@ -39,10 +39,9 @@ class CashRegister:
 
 def main():
 	reg = CashRegister()
-	item = 1
 	item = input('Please input the thing you want to purchase,\
 terminate input "0".')
-	while item != "0"
+	while item != "0":
 		for k in RetailItem.ls:
 			if k.description == item:
 				reg.purchase_item(k)
