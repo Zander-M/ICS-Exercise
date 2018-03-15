@@ -48,6 +48,4 @@ if __name__ == "__main__":
     print("Unsorted pancakes:", my_stack)
     case_one = PancakeStack(my_stack)
     print("Final order of pancakes: ", sort_pancakes(case_one))
-    
-    
-    
+

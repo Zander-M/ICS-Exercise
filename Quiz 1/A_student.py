@@ -1,18 +1,13 @@
 
 def print_one_unit(sym_array):
-    ls = ''
-    for i in sym_array:
-        ls += i
-    print(ls, end='')
-    return
-
+    # replace the line below
+    print(''.join(sym_array), end='')
 
 def print_triangle(n, a_block=['*']):
     for i in range(n):
-        i += 1
-        for j in range(i) :
+        for j in range(i + 1):
             print_one_unit(a_block)
-        print("\n")
+        print_one_unit(['\n'])
 
 print_triangle(4)
 print_triangle(5, a_block=['o', 'r', 'z'])
