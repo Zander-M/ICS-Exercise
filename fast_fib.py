@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 import math
 import time
 
-#you can define the limit of n here
-LIMIT = 500000
+#y ou can define the limit of n here
+LIMIT = 50
 
 def fast_fib(n, memo={}):
     #assume n is a non-negative integer, and the function returns Fib of n
